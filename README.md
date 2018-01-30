@@ -1,4 +1,6 @@
 # Rep1
 
 Mildred Ordoñez Godinez 
-Ingeniería de Software I
+Usuario: MildredOG
+Correo: mikaorgod@gmail.com
+Asignatura: Ingeniería de Software I
